@@ -1,0 +1,1 @@
+B4: length của mảng trên chính là số lượng từ trong file.
